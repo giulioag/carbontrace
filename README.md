@@ -30,7 +30,7 @@ El simulador se basa en tres pilares de ingeniería:
 - **UI/UX:** Dashboard industrial optimizado para análisis de datos con tipografía JetBrains Mono para entornos técnicos.
 
 ## 👨‍💻 Autor
-**Ing. Giulio Stocco** *Analista de Procesos | Especialización en Energía Nuclear (UTN) | Toyota Tsusho.*
+**Ing. Giulio Guglielmi** *Analista de Procesos | Especialización en Energía Nuclear (UTN) | Toyota Tsusho.*
 
 ---
 > *Este software es una herramienta de ingeniería de libre acceso para la promoción de una logística más eficiente y sustentable.*
